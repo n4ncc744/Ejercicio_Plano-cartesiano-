@@ -1,8 +1,8 @@
 """Ejercicio del plano cartesiano"""
 
-print("---------------------------------------------")
-print("-----Coordenadas, ejes,origen, y coordenada--")
-print("---------------------------------------------")
+print("-----------------------------------")
+print("----Coordenadas, ejes,origen-------")
+print("-----------------------------------")
 
 #input
 X = int(input("Digite el valor de x: "))
